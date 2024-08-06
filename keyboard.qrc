@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Icon">
+        <file>Image/white/backspace.png</file>
+        <file>Image/white/caplock.png</file>
+        <file>Image/white/enter.png</file>
+        <file>Image/white/pack_up.png</file>
+        <file>Image/white/space.png</file>
+        <file>Image/black/backspace_black.png</file>
+        <file>Image/black/enter_black.png</file>
+        <file>Image/black/spacebar_black.png</file>
+        <file>Image/black/capslock_fill.png</file>
+        <file>Image/black/capslock.png</file>
+        <file>Image/keyboard.png</file>
+    </qresource>
+    <qresource prefix="/Chineselib">
+        <file>chineselib/ChinesePhraselib.txt</file>
+        <file>chineselib/GoogleChineselib.txt</file>
+        <file>chineselib/pinyin.txt</file>
+    </qresource>
+</RCC>
